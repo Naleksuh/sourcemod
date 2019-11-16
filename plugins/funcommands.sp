@@ -37,6 +37,7 @@
 #include <sdktools>
 #undef REQUIRE_PLUGIN
 #include <adminmenu>
+#include <tf2>
 
 #pragma newdecls required
 
